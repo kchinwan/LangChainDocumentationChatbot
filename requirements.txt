@@ -1,0 +1,10 @@
+langchain-community
+langchain_pinecone
+langchain
+openai
+pinecone
+tiktoken
+unstructured
+streamlit
+python-dotenv
+sentence-transformers
